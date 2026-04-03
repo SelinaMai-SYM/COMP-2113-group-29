@@ -1,0 +1,7 @@
+color_tube
+color_tube_asan
+color_tube_ubsan
+*.o
+*.d
+*.dSYM/
+data/*.txt
