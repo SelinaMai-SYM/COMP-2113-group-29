@@ -1,0 +1,39 @@
+version 6
+saveName "trial 1"
+savedAt 1777037219
+difficulty hard
+level 2
+totalLevels 15
+capacity 4
+expectedBlocks 24
+binRemoved 0
+moves 0
+totalMoves 11
+baseSeed 2310132987
+currentLevelSeed 2310192545
+inventory 0 0 1 0
+powerupUses 0 0 0 0
+powerupRewards 0 0 1 0
+colors RGBYWP
+tubes 8
+tube G
+tube RGRY
+tube BBB
+tube YYGR
+tube RWW
+tube PPYP
+tube G
+tube WWBP
+history 0
+mechanicMeta 1 0 0 0 0 0
+hiddenRows 8
+hidden 0
+hidden 0000
+hidden 000
+hidden 0000
+hidden 000
+hidden 1000
+hidden 0
+hidden 0000
+obscured 00000000
+coverTargets ........
