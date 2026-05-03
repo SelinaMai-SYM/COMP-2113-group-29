@@ -148,9 +148,4 @@ Clean build files:
 make clean
 ```
 
-## Submission Notes
-- Replace the team-member placeholder line above with the real names and UIDs before submission.
-- Keep Git commit messages meaningful and non-empty.
-- Record a short video that demonstrates: menu, difficulty selection, gameplay, special mechanics, power-ups, save/load, hint, statistics page, and one level-clear sequence.
-- Keep the demo video within 3 minutes because later footage will be ignored.
-- Review the group contribution split before submission so each member meets the course threshold.
+
