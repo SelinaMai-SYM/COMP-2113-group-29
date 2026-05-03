@@ -1,8 +1,8 @@
 # Colorful Tube
 
 ## Team Members
-Mai Sheung Ying 3036567028
-Cheng Baojing 3036528175
+Mai Sheung Ying 3036567028, 
+Cheng Baojing 3036528175, 
 Zhou Yujie 3036586892
 
 ## Project Description
